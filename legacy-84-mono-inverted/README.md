@@ -10,6 +10,17 @@
   - [Negative Power Supply](#negative-power-supply)
   - [Amplifier](#amplifier)
   - [Pure Switch](#pure-switch)
+- [Chassis Examples](#chassis-examples)
+  - [Modushop Slim Line 2U 230mm](#modushop-slim-line-3u-230mm)
+    - [Front Panel](#modushop-slim-line-2u-front-panel)
+    - [Back Panel](#modushop-slim-line-2u-back-panel)
+    - [Top Panel](#modushop-slim-line-2u-top-panel)
+    - [Bottom Panel](#modushop-slim-line-2u-bottom-panel)
+  - [Modushop Slim Line 2U 280mm](#modushop-slim-line-2u-280mm)
+    - [Front Panel](#modushop-slim-line-2u-front-panel)
+    - [Back Panel](#modushop-slim-line-2u-back-panel)
+    - [Top Panel](#modushop-slim-line-2u-top-panel)
+    - [Bottom Panel](#modushop-slim-line-2u-bottom-panel)
 
 ## PCB
 ### PCB Front Side
@@ -46,8 +57,46 @@
 [![Slim Line 2U/230 Black](../Chassis/Slimline/2U/docs/DSC_9334-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9334-600x600-2000x2000.jpg)</br>
 [Slim Line 2U/230 Black](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=98)</br>
 
+|Panel|File|
+|---|---|
+|Front|[Slim Line 2U Front](../Chassis/Slimline/2U/Front.fpd)|
+|Rear RCA|[Slim Line 2U Rear RCA](../Chassis/Slimline/2U/Rear-RCA.fpd)|
+|Rear XLR|[Slim Line 2U Rear XLR](../Chassis/Slimline/2U/Rear-XLR.fpd)|
+|Top|[Slim Line 2U Top 230](../Chassis/Slimline/2U/230/Top.fpd)|
+|Bottom|[Slim Line 2U Bottom 230](../Chassis/Slimline/2U/230/Bottom.fpd)|
+
+#### Front Panel
+[![Modushop Slim Line 2U Front Panel](../Chassis/Slimline/2U/docs/front.thumb.png)](../Chassis/Slimline/3U/docs/front.png)</br>
+#### Back Panel RCA
+[![Modushop Slim Line 2U Back Panel RCA](../Chassis/Slimline/2U/docs/rear-rca.thumb.png)](../Chassis/Slimline/3U/docs/rear-rca.png)</br>
+#### Back Panel XLR
+[![Modushop Slim Line 2U Back Panel XLR](../Chassis/Slimline/2U/docs/rear-xlr.thumb.png)](../Chassis/Slimline/3U/docs/rear-xlr.png)</br>
+#### Top Panel
+[![Modushop Slim Line 2U Top Panel 230mm](../Chassis/Slimline/2U/docs/top-230.thumb.png)](../Chassis/Slimline/3U/docs/top-230.png)</br>
+#### Bottom Panel
+[![Modushop Slim Line 2U Bottom Panel 230mm](../Chassis/Slimline/2U/docs/bottom-230.thumb.png)](../Chassis/Slimline/3U/docs/bottom-230.png)</br>
+
 ### Modushop Slim Line 2U 280mm
 [![Slim Line 2U/280 Silver](../Chassis/Slimline/2U/docs/DSC_9277-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9277-600x600-2000x2000.jpg)</br>
 [Slim Line 2U/280 Silver](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=99)</br></br>
 [![Slim Line 2U/280 Black](../Chassis/Slimline/2U/docs/DSC_9298-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9298-600x600-2000x2000.jpg)</br>
 [Slim Line 2U/280 Black](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=100)</br>
+
+|Panel|File|
+|---|---|
+|Front|[Slim Line 2U Front](../Chassis/Slimline/2U/Front.fpd)|
+|Rear RCA|[Slim Line 2U Rear RCA](../Chassis/Slimline/2U/Rear-RCA.fpd)|
+|Rear XLR|[Slim Line 2U Rear XLR](../Chassis/Slimline/2U/Rear-XLR.fpd)|
+|Top|[Slim Line 2U Top 280](../Chassis/Slimline/2U/280/Top.fpd)|
+|Bottom|[Slim Line 2U Bottom 280](../Chassis/Slimline/2U/280/Bottom.fpd)|
+
+#### Front Panel
+[![Modushop Slim Line 2U Front Panel](../Chassis/Slimline/2U/docs/front.thumb.png)](../Chassis/Slimline/3U/docs/front.png)</br>
+#### Back Panel RCA
+[![Modushop Slim Line 2U Back Panel RCA](../Chassis/Slimline/2U/docs/rear-rca.thumb.png)](../Chassis/Slimline/3U/docs/rear-rca.png)</br>
+#### Back Panel XLR
+[![Modushop Slim Line 2U Back Panel XLR](../Chassis/Slimline/2U/docs/rear-xlr.thumb.png)](../Chassis/Slimline/3U/docs/rear-xlr.png)</br>
+#### Top Panel
+[![Modushop Slim Line 2U Top Panel 280mm](../Chassis/Slimline/2U/docs/top-280.thumb.png)](../Chassis/Slimline/3U/docs/top-280.png)</br>
+#### Bottom Panel
+[![Modushop Slim Line 2U Bottom Panel 280mm](../Chassis/Slimline/2U/docs/bottom-280.thumb.png)](../Chassis/Slimline/3U/docs/bottom-280.png)</br>
