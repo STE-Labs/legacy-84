@@ -38,10 +38,10 @@
 
 ## PCB
 ### PCB Front Side
-[![PCB Front](./docs/pcb-front.thumb.png)](./docs/pcb-front.png)</br>
+![PCB Front](./docs/pcb-front.thumb.png)</br>
 
 ### PCB Back Side
-[![PCB Back](./docs/pcb-back.thumb.png)](./docs/pcb-back.png)</br>
+![PCB Back](./docs/pcb-back.thumb.png)</br>
 
 ## Circuit Diagram Left Channel
 ### Power Supply
