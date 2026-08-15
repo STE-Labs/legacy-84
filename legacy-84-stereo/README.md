@@ -133,6 +133,11 @@
 [![Modushop Slim Line 3U Bottom Panel 350mm](../Chassis/Slimline/3U/docs/bottom-350.thumb.png)](../Chassis/Slimline/3U/docs/bottom-350.png)</br>
 
 ### Modushop Slim Line 4U 280mm
+[![Slim Line 4U/280 Silver](../Chassis/Slimline/4U/docs/DSC_9453-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/4U/docs/DSC_9453-600x600-2000x2000.jpg)</br>
+[Slim Line 4U/280 Silver](https://modushop.biz/site/index.php?route=product/product&path=121_255_257&product_id=149)</br></br>
+[![Slim Line 4U/280 Black](../Chassis/Slimline/4U/docs/DSC_9456-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/4U/docs/DSC_9456-600x600-2000x2000.jpg)</br>
+[Slim Line 4U/280 Black](https://modushop.biz/site/index.php?route=product/product&path=121_255_257&product_id=150)</br>
+
 |Panel|File|
 |---|---|
 |Front|[Slim Line 4U Front](../Chassis/Slimline/4U/Front.fpd)|
@@ -153,6 +158,11 @@
 [![Modushop Slim Line 4U Bottom Panel 280mm](../Chassis/Slimline/4U/docs/bottom-280.thumb.png)](../Chassis/Slimline/4U/docs/bottom-280.png)</br>
 
 ### Modushop Slim Line 4U 350mm
+[![Slim Line 4U/350 Silver](../Chassis/Slimline/4U/docs/DSC_9425-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/4U/docs/DSC_9425-600x600-2000x2000.jpg)</br>
+[Slim Line 4U/350 Silver](https://modushop.biz/site/index.php?route=product/product&path=121_255_257&product_id=151)</br></br>
+[![Slim Line 4U/350 Black](../Chassis/Slimline/4U/docs/DSC_9417-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/4U/docs/DSC_9417-600x600-2000x2000.jpg)</br>
+[Slim Line 4U/350 Black](https://modushop.biz/site/index.php?route=product/product&path=121_255_257&product_id=152)</br>
+
 |Panel|File|
 |---|---|
 |Front|[Slim Line 4U Front](../Chassis/Slimline/4U/Front.fpd)|
