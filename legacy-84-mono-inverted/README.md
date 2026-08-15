@@ -38,3 +38,16 @@
 [![Circuit Diagram Pure Switch](./docs/circuit-diagram-pure-switch.thumb.png)](./docs/circuit-diagram-pure-switch.png)</br>
 [High Resolution](./docs/circuit-diagram-pure-switch.png)</br>
 [PDF](./docs/circuit-diagram-pure-switch.pdf)</br>
+
+## Chassis Examples
+### Modushop Slim Line 2U 230mm
+![Slim Line 2U/230 Silver](../Chassis/Slimline/2U/docs/)</br>
+[Slim Line 2U/230 Silver]()</br></br>
+![Slim Line 2U/230 Black](../Chassis/Slimline/2U/docs/))</br>
+[Slim Line 2U/230 Black]()</br>
+
+### Modushop Slim Line 2U 280mm
+![Slim Line 2U/280 Silver](../Chassis/Slimline/2U/docs/)</br>
+[Slim Line 2U/280 Silver]()</br></br>
+![Slim Line 2U/280 Black](../Chassis/Slimline/2U/docs/))</br>
+[Slim Line 2U/280 Black]()</br>
