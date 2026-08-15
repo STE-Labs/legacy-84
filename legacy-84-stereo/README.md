@@ -83,6 +83,19 @@
 
 ## Chassis Examples
 ### Modushop Slim Line 3U 280mm
+[![Slim Line 3U/280 Silver](../Chassis/Slimline/3U/docs/DSC_9398-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/3U/docs/DSC_9398-600x600-2000x2000.jpg)</br>
+[Slim Line 3U/280 Silver](https://modushop.biz/site/index.php?route=product/product&path=118_251_253&product_id=125)</br></br>
+[![Slim Line 3U/280 Black](../Chassis/Slimline/3U/docs/DSC_9411-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/3U/docs/DSC_9411-600x600-2000x2000.jpg)</br>
+[Slim Line 3U/280 Black](https://modushop.biz/site/index.php?route=product/product&path=118_251_253&product_id=126)</br>
+
+|Panel|File|
+|---|---|
+|Front|[Slim Line 3U Front](../Chassis/Slimline/3U/Front.fpd)|
+|Rear RCA|[Slim Line 3U Rear RCA](../Chassis/Slimline/3U/Rear-RCA.fpd)|
+|Rear XLR|[Slim Line 3U Rear XLR](../Chassis/Slimline/3U/Rear-XLR.fpd)|
+|Top|[Slim Line 3U Top 280](../Chassis/Slimline/3U/280/Top.fpd)|
+|Bottom|[Slim Line 3U Bottom 280](../Chassis/Slimline/3U/280/Bottom.fpd)|
+
 #### Front Panel
 [![Modushop Slim Line 3U Front Panel](../Chassis/Slimline/3U/docs/front.thumb.png)](../Chassis/Slimline/3U/docs/front.png)</br>
 #### Back Panel RCA
@@ -95,6 +108,19 @@
 [![Modushop Slim Line 3U Bottom Panel 280mm](../Chassis/Slimline/3U/docs/bottom-280.thumb.png)](../Chassis/Slimline/3U/docs/bottom-280.png)</br>
 
 ### Modushop Slim Line 3U 350mm
+[![Slim Line 3U/350 Silver](../Chassis/Slimline/3U/docs/DSC_9428-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/3U/docs/DSC_9428-600x600-2000x2000.jpg)</br>
+[Slim Line 3U/350 Silver](https://modushop.biz/site/index.php?route=product/product&path=118_251_253&product_id=127)</br></br>
+[![Slim Line 3U/350 Black](../Chassis/Slimline/3U/docs/DSC_9419-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/3U/docs/DSC_9419-600x600-2000x2000.jpg)</br>
+[Slim Line 3U/350 Black](https://modushop.biz/site/index.php?route=product/product&path=118_251_253&product_id=128)</br>
+
+|Panel|File|
+|---|---|
+|Front|[Slim Line 3U Front](../Chassis/Slimline/3U/Front.fpd)|
+|Rear RCA|[Slim Line 3U Rear RCA](../Chassis/Slimline/3U/Rear-RCA.fpd)|
+|Rear XLR|[Slim Line 3U Rear XLR](../Chassis/Slimline/3U/Rear-XLR.fpd)|
+|Top|[Slim Line 3U Top 350](../Chassis/Slimline/3U/350/Top.fpd)|
+|Bottom|[Slim Line 3U Bottom 350](../Chassis/Slimline/3U/350/Bottom.fpd)|
+
 #### Front Panel
 [![Modushop Slim Line 3U Front Panel](../Chassis/Slimline/3U/docs/front.thumb.png)](../Chassis/Slimline/3U/docs/front.png)</br>
 #### Back Panel RCA
@@ -107,6 +133,14 @@
 [![Modushop Slim Line 3U Bottom Panel 350mm](../Chassis/Slimline/3U/docs/bottom-350.thumb.png)](../Chassis/Slimline/3U/docs/bottom-350.png)</br>
 
 ### Modushop Slim Line 4U 280mm
+|Panel|File|
+|---|---|
+|Front|[Slim Line 4U Front](../Chassis/Slimline/4U/Front.fpd)|
+|Rear RCA|[Slim Line 4U Rear RCA](../Chassis/Slimline/4U/Rear-RCA.fpd)|
+|Rear XLR|[Slim Line 4U Rear XLR](../Chassis/Slimline/4U/Rear-XLR.fpd)|
+|Top|[Slim Line 4U Top 280](../Chassis/Slimline/4U/280/Top.fpd)|
+|Bottom|[Slim Line 4U Bottom 280](../Chassis/Slimline/4U/280/Bottom.fpd)|
+
 #### Front Panel
 [![Modushop Slim Line 4U Front Panel](../Chassis/Slimline/4U/docs/front.thumb.png)](../Chassis/Slimline/4U/docs/front.png)</br>
 #### Back Panel RCA
@@ -119,6 +153,14 @@
 [![Modushop Slim Line 4U Bottom Panel 280mm](../Chassis/Slimline/4U/docs/bottom-280.thumb.png)](../Chassis/Slimline/4U/docs/bottom-280.png)</br>
 
 ### Modushop Slim Line 4U 350mm
+|Panel|File|
+|---|---|
+|Front|[Slim Line 4U Front](../Chassis/Slimline/4U/Front.fpd)|
+|Rear RCA|[Slim Line 4U Rear RCA](../Chassis/Slimline/4U/Rear-RCA.fpd)|
+|Rear XLR|[Slim Line 4U Rear XLR](../Chassis/Slimline/4U/Rear-XLR.fpd)|
+|Top|[Slim Line 4U Top 350](../Chassis/Slimline/4U/350/Top.fpd)|
+|Bottom|[Slim Line 4U Bottom 350](../Chassis/Slimline/4U/350/Bottom.fpd)|
+
 #### Front Panel
 [![Modushop Slim Line 4U Front Panel](../Chassis/Slimline/4U/docs/front.thumb.png)](../Chassis/Slimline/4U/docs/front.png)</br>
 #### Back Panel RCA
