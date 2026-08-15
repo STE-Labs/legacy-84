@@ -41,13 +41,13 @@
 
 ## Chassis Examples
 ### Modushop Slim Line 2U 230mm
-![Slim Line 2U/230 Silver](../Chassis/Slimline/2U/docs/)</br>
-[Slim Line 2U/230 Silver]()</br></br>
-![Slim Line 2U/230 Black](../Chassis/Slimline/2U/docs/))</br>
-[Slim Line 2U/230 Black]()</br>
+[![Slim Line 2U/230 Silver](../Chassis/Slimline/2U/docs/DSC_9300-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9300-600x600-2000x2000.jpg)</br>
+[Slim Line 2U/230 Silver](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=97)</br></br>
+[![Slim Line 2U/230 Black](../Chassis/Slimline/2U/docs/DSC_9334-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9334-600x600-2000x2000.jpg)</br>
+[Slim Line 2U/230 Black](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=98)</br>
 
 ### Modushop Slim Line 2U 280mm
-![Slim Line 2U/280 Silver](../Chassis/Slimline/2U/docs/)</br>
-[Slim Line 2U/280 Silver]()</br></br>
-![Slim Line 2U/280 Black](../Chassis/Slimline/2U/docs/))</br>
-[Slim Line 2U/280 Black]()</br>
+[![Slim Line 2U/280 Silver](../Chassis/Slimline/2U/docs/DSC_9277-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9277-600x600-2000x2000.jpg)</br>
+[Slim Line 2U/280 Silver](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=99)</br></br>
+[![Slim Line 2U/280 Black](../Chassis/Slimline/2U/docs/DSC_9298-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9298-600x600-2000x2000.jpg)</br>
+[Slim Line 2U/280 Black](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=100)</br>
