@@ -59,18 +59,18 @@ We provide PCB Kits with the highest possible manufacturing standards. Our Kits 
 We have pre-designed enclosures for the Legacy 84 kits to make building easier and more accessible. These enclosures are available in different sizes and configurations to suit different needs. You can use our examples directly for your order with Modushop or you can use Front Panel Designer to customize the panels to your own taste.
 
 ### Mono Amplifiers
-[Modushop Galaxy 2U GX283 & GX288](./Galaxy/230/2U/README.md)  
-[Modushop Galaxy 3U GX285](./Galaxy/230/3U/README.md)  
-[Modushop Galaxy 4U GX285](./Galaxy/230/4U/README.md)  
+[Modushop Galaxy 2U GX283 & GX288](./Chassis/Galaxy/230/2U/README.md)  
+[Modushop Galaxy 3U GX285](./Chassis/Galaxy/230/3U/README.md)  
+[Modushop Galaxy 4U GX285](./Chassis/Galaxy/230/4U/README.md)  
 
 ### Stereo Amplifiers
-[Modushop Slim Line 2U](./Slimline/2U/README.md)  
-[Modushop Slim Line 3U](./Slimline/3U/README.md)  
-[Modushop Slim Line 4U](./Slimline/4U/README.md)  
+[Modushop Slim Line 2U](./Chassis/Slimline/2U/README.md)  
+[Modushop Slim Line 3U](./Chassis/Slimline/3U/README.md)  
+[Modushop Slim Line 4U](./Chassis/Slimline/4U/README.md)  
 
-[Modushop Galaxy 2U GX383 & GX388](./Galaxy/330/2U/README.md)  
-[Modushop Galaxy 3U GX385](./Galaxy/330/3U/README.md)  
-[Modushop Galaxy 4U GX385](./Galaxy/330/4U/README.md)  
+[Modushop Galaxy 2U GX383 & GX388](./Chassis/Galaxy/330/2U/README.md)  
+[Modushop Galaxy 3U GX385](./Chassis/Galaxy/330/3U/README.md)  
+[Modushop Galaxy 4U GX385](./Chassis/Galaxy/330/4U/README.md)  
 
 ## Legacy 84 Mono
 [![Legacy 84 Mono](./PCB/.preview/legacy-84-mono.thumb.png)](./PCB/.preview/legacy-84-mono.png)
@@ -83,8 +83,8 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 
 |Enclosure|
 |---|
-|[Modushop Galaxy 3U GX285](../Galaxy/230/3U/README.md)|
-|[Modushop Galaxy 4U GX285](../Galaxy/230/4U/README.md)|
+|[Modushop Galaxy 3U GX285](../Chassis/Galaxy/230/3U/README.md)|
+|[Modushop Galaxy 4U GX285](../Chassis/Galaxy/230/4U/README.md)|
 
 ## Legacy 84 Mono-Inverted
 [![Legacy 84 Mono-Inverted](./PCB/.preview/legacy-84-mono-inverted.thumb.png)](./PCB/.preview/legacy-84-mono-inverted.png)
@@ -97,8 +97,8 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 
 |Enclosure|
 |---|
-|[Modushop Galaxy 2U GX283 & GX288](../Galaxy/230/2U/README.md)|
-|[Modushop Slim Line 2U](../Slimline/2U/README.md)|
+|[Modushop Galaxy 2U GX283 & GX288](../Chassis/Galaxy/230/2U/README.md)|
+|[Modushop Slim Line 2U](../Chassis/Slimline/2U/README.md)|
 
 ## Legacy 84 Stereo
 [![Legacy 84 Stereo](./PCB/.preview/legacy-84-stereo.thumb.png)](./PCB/.preview/legacy-84-stereo.png)
@@ -111,10 +111,10 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 
 |Enclosure|
 |---|
-|[Modushop Galaxy 3U GX385](../Galaxy/330/3U/README.md)|
-|[Modushop Galaxy 4U GX385](../Galaxy/330/4U/README.md)|
-|[Modushop Slim Line 3U](../Slimline/3U/README.md)|
-|[Modushop Slim Line 4U](../Slimline/4U/README.md)|
+|[Modushop Galaxy 3U GX385](../Chassis/Galaxy/330/3U/README.md)|
+|[Modushop Galaxy 4U GX385](../Chassis/Galaxy/330/4U/README.md)|
+|[Modushop Slim Line 3U](../Chassis/Slimline/3U/README.md)|
+|[Modushop Slim Line 4U](../Chassis/Slimline/4U/README.md)|
 
 ## Legacy 84 Stereo-Inverted
 [![Legacy 84 Stereo-Inverted](./PCB/.preview/legacy-84-stereo-inverted.thumb.png)](./PCB/.preview/legacy-84-stereo-inverted.png)
@@ -127,4 +127,4 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 
 |Enclosure|
 |---|
-|[Modushop Galaxy 2U GX383 & GX388](../Galaxy/330/2U/README.md)|
+|[Modushop Galaxy 2U GX383 & GX388](../Chassis/Galaxy/330/2U/README.md)|

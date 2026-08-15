@@ -1,6 +1,4 @@
 # Modushop Slim Line 2U
-[Home](../../README.md)  
-
 These are custom drawings for the **Modushop Slim Line 2U** amplifier enclosures. 
 The panel designs are perfectly tailored to fit two of the **Legacy 84 Mono Inverted PCB Kits**.
 
@@ -14,6 +12,7 @@ The panel designs are perfectly tailored to fit two of the **Legacy 84 Mono Inve
 Available at [Modushop.biz](https://modushop.biz/)
 
 ## Table of Contents
+[Home](../../../README.md)
 - [Legacy 84 Mono Inverted](#legacy-84-mono-inverted)
 - [Common Panels](#common-panels)
 - [Slim Line 02/230](#slim-line-02230)
