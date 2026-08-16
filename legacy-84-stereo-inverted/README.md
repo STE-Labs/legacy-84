@@ -5,7 +5,6 @@
 - [PCB](#pcb)
   - [PCB Front Side](#pcb-front-side)
   - [PCB Back Side](#pcb-back-side)
-- [Bill of Materials](#bill-of-materials)
 - [Circuit Diagram Left Channel](#circuit-diagram-left-channel)
   - [Power Supply](#power-supply)
   - [Negative Power Supply](#negative-power-supply)
@@ -17,6 +16,7 @@
 - [Circuit Diagram Pure Switch](#circuit-diagram-pure-switch)
 - [Chassis Examples](#chassis-examples)
   - [Modushop Galaxy 2U GX383 & GX388](#modushop-galaxy-2u-gx383--gx388)
+- [Bill of Materials](#bill-of-materials)
 
 ## PCB
 ### PCB Front Side
@@ -24,6 +24,49 @@
 
 ### PCB Back Side
 [![PCB Back](./docs/pcb-back.thumb.png)](./docs/pcb-back.png)
+
+## Circuit Diagram Left Channel
+### Power Supply
+[![Circuit Diagram Left Channel Power Supply](./docs/circuit-diagram-left-channel-power-supply.thumb.png)](./docs/circuit-diagram-left-channel-power-supply.png)</br>
+[High Resolution](./docs/circuit-diagram-left-channel-power-supply.png)</br>
+[PDF](./docs/circuit-diagram-left-channel-power-supply.pdf)</br>
+
+### Negative Power Supply
+[![Circuit Diagram Left Channel Negative Power Supply](./docs/circuit-diagram-left-channel-negative-power-supply.thumb.png)](./docs/circuit-diagram-left-channel-negative-power-supply.png)</br>
+[High Resolution](./docs/circuit-diagram-left-channel-negative-power-supply.png)</br>
+[PDF](./docs/circuit-diagram-left-channel-negative-power-supply.pdf)</br>
+
+### Amplifier
+[![Circuit Diagram Left Channel Amplifier](./docs/circuit-diagram-left-channel-amplifier.thumb.png)](./docs/circuit-diagram-left-channel-amplifier.png)</br>
+[High Resolution](./docs/circuit-diagram-left-channel-amplifier.png)</br>
+[PDF](./docs/circuit-diagram-left-channel-amplifier.pdf)</br>
+
+## Circuit Diagram Right Channel
+### Power Supply
+[![Circuit Diagram Right Channel Power Supply](./docs/circuit-diagram-right-channel-power-supply.thumb.png)](./docs/circuit-diagram-right-channel-power-supply.png)</br>
+[High Resolution](./docs/circuit-diagram-right-channel-power-supply.png)</br>
+[PDF](./docs/circuit-diagram-right-channel-power-supply.pdf)</br>
+
+### Negative Power Supply
+[![Circuit Diagram Right Channel Negative Power Supply](./docs/circuit-diagram-right-channel-negative-power-supply.thumb.png)](./docs/circuit-diagram-right-channel-negative-power-supply.png)</br>
+[High Resolution](./docs/circuit-diagram-right-channel-negative-power-supply.png)</br>
+[PDF](./docs/circuit-diagram-right-channel-negative-power-supply.pdf)</br>
+
+### Amplifier
+[![Circuit Diagram Right Channel Amplifier](./docs/circuit-diagram-right-channel-amplifier.thumb.png)](./docs/circuit-diagram-right-channel-amplifier.png)</br>
+[High Resolution](./docs/circuit-diagram-right-channel-amplifier.png)</br>
+[PDF](./docs/circuit-diagram-right-channel-amplifier.pdf)</br>
+
+## Circuit Diagram Pure Switch
+[![Circuit Diagram Pure Switch](./docs/circuit-diagram-pure-switch.thumb.png)](./docs/circuit-diagram-pure-switch.png)</br>
+[High Resolution](./docs/circuit-diagram-pure-switch.png)</br>
+[PDF](./docs/circuit-diagram-pure-switch.pdf)</br>
+
+## Chassis Examples
+### Modushop Galaxy 2U GX383 & GX388
+Panel drawings for the Legacy 84 Stereo Inverted in a Galaxy 2U enclosure.
+
+[View Chassis Details](../Chassis/Galaxy/330/2U/README.md)
 
 ## Bill of Materials
 
@@ -85,46 +128,3 @@
 - [ ] 4x T250mA Fuse Holder
 - [ ] 2x T2A Fuse Holder
 - [ ] 2x UF4003 Diode
-
-## Circuit Diagram Left Channel
-### Power Supply
-[![Circuit Diagram Left Channel Power Supply](./docs/circuit-diagram-left-channel-power-supply.thumb.png)](./docs/circuit-diagram-left-channel-power-supply.png)</br>
-[High Resolution](./docs/circuit-diagram-left-channel-power-supply.png)</br>
-[PDF](./docs/circuit-diagram-left-channel-power-supply.pdf)</br>
-
-### Negative Power Supply
-[![Circuit Diagram Left Channel Negative Power Supply](./docs/circuit-diagram-left-channel-negative-power-supply.thumb.png)](./docs/circuit-diagram-left-channel-negative-power-supply.png)</br>
-[High Resolution](./docs/circuit-diagram-left-channel-negative-power-supply.png)</br>
-[PDF](./docs/circuit-diagram-left-channel-negative-power-supply.pdf)</br>
-
-### Amplifier
-[![Circuit Diagram Left Channel Amplifier](./docs/circuit-diagram-left-channel-amplifier.thumb.png)](./docs/circuit-diagram-left-channel-amplifier.png)</br>
-[High Resolution](./docs/circuit-diagram-left-channel-amplifier.png)</br>
-[PDF](./docs/circuit-diagram-left-channel-amplifier.pdf)</br>
-
-## Circuit Diagram Right Channel
-### Power Supply
-[![Circuit Diagram Right Channel Power Supply](./docs/circuit-diagram-right-channel-power-supply.thumb.png)](./docs/circuit-diagram-right-channel-power-supply.png)</br>
-[High Resolution](./docs/circuit-diagram-right-channel-power-supply.png)</br>
-[PDF](./docs/circuit-diagram-right-channel-power-supply.pdf)</br>
-
-### Negative Power Supply
-[![Circuit Diagram Right Channel Negative Power Supply](./docs/circuit-diagram-right-channel-negative-power-supply.thumb.png)](./docs/circuit-diagram-right-channel-negative-power-supply.png)</br>
-[High Resolution](./docs/circuit-diagram-right-channel-negative-power-supply.png)</br>
-[PDF](./docs/circuit-diagram-right-channel-negative-power-supply.pdf)</br>
-
-### Amplifier
-[![Circuit Diagram Right Channel Amplifier](./docs/circuit-diagram-right-channel-amplifier.thumb.png)](./docs/circuit-diagram-right-channel-amplifier.png)</br>
-[High Resolution](./docs/circuit-diagram-right-channel-amplifier.png)</br>
-[PDF](./docs/circuit-diagram-right-channel-amplifier.pdf)</br>
-
-## Circuit Diagram Pure Switch
-[![Circuit Diagram Pure Switch](./docs/circuit-diagram-pure-switch.thumb.png)](./docs/circuit-diagram-pure-switch.png)</br>
-[High Resolution](./docs/circuit-diagram-pure-switch.png)</br>
-[PDF](./docs/circuit-diagram-pure-switch.pdf)</br>
-
-## Chassis Examples
-### Modushop Galaxy 2U GX383 & GX388
-Panel drawings for the Legacy 84 Stereo Inverted in a Galaxy 2U enclosure.
-
-[View Chassis Details](../Chassis/Galaxy/330/2U/README.md)

@@ -5,7 +5,6 @@
 - [PCB](#pcb)
   - [PCB Front Side](#pcb-front-side)
   - [PCB Back Side](#pcb-back-side)
-- [Bill of Materials](#bill-of-materials)
 - [Circuit Diagram](#circuit-diagram)
   - [Power Supply](#power-supply)
   - [Negative Power Supply](#negative-power-supply)
@@ -14,6 +13,7 @@
 - [Chassis Examples](#chassis-examples)
   - [Modushop Galaxy 3U GX285](#modushop-galaxy-3u-gx285)
   - [Modushop Galaxy 4U GX285](#modushop-galaxy-4u-gx285)
+- [Bill of Materials](#bill-of-materials)
 
 ## PCB
 ### PCB Front Side
@@ -21,6 +21,38 @@
 
 ### PCB Back Side
 [![PCB Back](./docs/pcb-back.thumb.png)](./docs/pcb-back.png)
+
+## Circuit Diagram
+### Power Supply
+[![Circuit Diagram Power Supply](./docs/circuit-diagram-power-supply.thumb.png)](./docs/circuit-diagram-power-supply.png)</br>
+[High Resolution](./docs/circuit-diagram-power-supply.png)</br>
+[PDF](./docs/circuit-diagram-power-supply.pdf)</br>
+
+### Negative Power Supply
+[![Circuit Diagram Negative Power Supply](./docs/circuit-diagram-negative-power-supply.thumb.png)](./docs/circuit-diagram-negative-power-supply.png)</br>
+[High Resolution](./docs/circuit-diagram-negative-power-supply.png)</br>
+[PDF](./docs/circuit-diagram-negative-power-supply.pdf)</br>
+
+### Amplifier
+[![Circuit Diagram Amplifier](./docs/circuit-diagram-amplifier.thumb.png)](./docs/circuit-diagram-amplifier.png)</br>
+[High Resolution](./docs/circuit-diagram-amplifier.png)</br>
+[PDF](./docs/circuit-diagram-amplifier.pdf)</br>
+
+### Pure Switch
+[![Circuit Diagram Pure Switch](./docs/circuit-diagram-pure-switch.thumb.png)](./docs/circuit-diagram-pure-switch.png)</br>
+[High Resolution](./docs/circuit-diagram-pure-switch.png)</br>
+[PDF](./docs/circuit-diagram-pure-switch.pdf)</br>
+
+## Chassis Examples
+### Modushop Galaxy 3U GX285
+Panel drawings for the Legacy 84 Mono in a Galaxy 3U GX285 enclosure.
+
+[View Chassis Details](../Chassis/Galaxy/230/3U/README.md)
+
+### Modushop Galaxy 4U GX285
+Panel drawings for the Legacy 84 Mono in a Galaxy 4U GX285 enclosure.
+
+[View Chassis Details](../Chassis/Galaxy/230/4U/README.md)
 
 ## Bill of Materials
 
@@ -81,35 +113,3 @@
 - [ ] 2x T 315mA Fuse Holder
 - [ ] 1x T 3A Fuse Holder
 - [ ] 1x UF4003 Diode
-
-## Circuit Diagram
-### Power Supply
-[![Circuit Diagram Power Supply](./docs/circuit-diagram-power-supply.thumb.png)](./docs/circuit-diagram-power-supply.png)</br>
-[High Resolution](./docs/circuit-diagram-power-supply.png)</br>
-[PDF](./docs/circuit-diagram-power-supply.pdf)</br>
-
-### Negative Power Supply
-[![Circuit Diagram Negative Power Supply](./docs/circuit-diagram-negative-power-supply.thumb.png)](./docs/circuit-diagram-negative-power-supply.png)</br>
-[High Resolution](./docs/circuit-diagram-negative-power-supply.png)</br>
-[PDF](./docs/circuit-diagram-negative-power-supply.pdf)</br>
-
-### Amplifier
-[![Circuit Diagram Amplifier](./docs/circuit-diagram-amplifier.thumb.png)](./docs/circuit-diagram-amplifier.png)</br>
-[High Resolution](./docs/circuit-diagram-amplifier.png)</br>
-[PDF](./docs/circuit-diagram-amplifier.pdf)</br>
-
-### Pure Switch
-[![Circuit Diagram Pure Switch](./docs/circuit-diagram-pure-switch.thumb.png)](./docs/circuit-diagram-pure-switch.png)</br>
-[High Resolution](./docs/circuit-diagram-pure-switch.png)</br>
-[PDF](./docs/circuit-diagram-pure-switch.pdf)</br>
-
-## Chassis Examples
-### Modushop Galaxy 3U GX285
-Panel drawings for the Legacy 84 Mono in a Galaxy 3U GX285 enclosure.
-
-[View Chassis Details](../Chassis/Galaxy/230/3U/README.md)
-
-### Modushop Galaxy 4U GX285
-Panel drawings for the Legacy 84 Mono in a Galaxy 4U GX285 enclosure.
-
-[View Chassis Details](../Chassis/Galaxy/230/4U/README.md)

@@ -5,7 +5,6 @@
 - [PCB](#PCB)
   - [PCB Front Side](#PCB-Front-Side)
   - [PCB Back Side](#PCB-Back-Side)
-- [Bill of Materials](#bill-of-materials)
 - [Circuit Diagram Left Channel](#circuit-diagram-left-channel)
   - [Power Supply](#power-supply)
   - [Negative Power Supply](#negative-power-supply)
@@ -36,6 +35,7 @@
     - [Back Panel](#modushop-slim-line-4u-back-panel)
     - [Top Panel](#modushop-slim-line-4u-top-panel)
     - [Bottom Panel](#modushop-slim-line-4u-bottom-panel)
+- [Bill of Materials](#bill-of-materials)
 
 ## PCB
 ### PCB Front Side
@@ -43,68 +43,6 @@
 
 ### PCB Back Side
 [![PCB Back](./docs/pcb-back.thumb.png)](./docs/pcb-back.png)
-
-## Bill of Materials
-
-- [ ] 4x 100 Resistor
-- [ ] 6x 100/2W Resistor
-- [ ] 2x 100/35W Resistor
-- [ ] 14x 100k Resistor
-- [ ] 2x 100k Resistor (2W)
-- [ ] 4x 100k Trimm Resistor
-- [ ] 2x 100k/2W Resistor
-- [ ] 2x 100n Capacitor
-- [ ] 4x 100n/400V Capacitor
-- [ ] 1x 100nF Capacitor
-- [ ] 2x 100u/100V Polarized Capacitor
-- [ ] 2x 100u/25 Polarized Capacitor
-- [ ] 2x 100u/25V Polarized Capacitor
-- [ ] 4x 10_270/2W Cathode Resistor
-- [ ] 5x 10k Resistor
-- [ ] 4x 110 Resistor
-- [ ] 4x 1M Resistor
-- [ ] 2x 1N4148 Diode
-- [ ] 13x 1k Resistor
-- [ ] 4x 1u/400V Coupling Capacitor
-- [ ] 4x 1u/50V Polarized Capacitor
-- [ ] 4x 2.2k/2W Resistor
-- [ ] 4x 2.7k Resistor
-- [ ] 2x 2.7k/2W Resistor
-- [ ] 2x 22 Resistor
-- [ ] 2x 220u/16V Polarized Capacitor
-- [ ] 4x 220u/450V Polarized Capacitor
-- [ ] 4x 22p Capacitor
-- [ ] 2x 270k/2W Resistor
-- [ ] 4x 27k Resistor
-- [ ] 2x 30 Resistor
-- [ ] 4x 4.7k Resistor
-- [ ] 10x 470 Resistor
-- [ ] 4x 470k/2W Resistor
-- [ ] 4x 470u/100V Polarized Capacitor
-- [ ] 2x 47k/2W Resistor
-- [ ] 2x 47u/450V Polarized Capacitor
-- [ ] 1x B3B-ZR Connector
-- [ ] 2x BC547 NPN Transistor
-- [ ] 1x BS170 N-Channel MOS FET
-- [ ] 2x BZX55C15 Z Diode
-- [ ] 2x BZX55C2V7 Z Diode
-- [ ] 2x BZX55C5V1 Z Diode (DO41Z10)
-- [ ] 1x BZX55C5V1 Z Diode (DO35-7)
-- [ ] 16x C3D03060A Diode
-- [ ] 4x ECC88 Valve
-- [ ] 4x EL84 Valve
-- [ ] 2x G6K-2P-Y Relay
-- [ ] 4x IRF820 N-Channel MOS FET
-- [ ] 6x MKDSN1,5/2-5,08 Terminal Block
-- [ ] 4x MKDSN1,5/3-5,08 Terminal Block
-- [ ] 2x MPSA42 Transistor
-- [ ] 2x PC817 Opto Coupler
-- [ ] 6x SK104-PAD Heatsink
-- [ ] 16x SK95-2M3 Heatsink
-- [ ] 4x ST-SMB-V SMB Connector
-- [ ] 4x T 315mA Fuse Holder
-- [ ] 2x T 3A Fuse Holder
-- [ ] 2x UF4003 Diode
 
 ## Circuit Diagram Left Channel
 ### Power Supply
@@ -244,3 +182,65 @@
 [![Modushop Slim Line 4U Top Panel 350mm](../Chassis/Slimline/4U/docs/top-350.thumb.png)](../Chassis/Slimline/4U/docs/top-350.png)</br>
 #### Bottom Panel
 [![Modushop Slim Line 4U Bottom Panel 350mm](../Chassis/Slimline/4U/docs/bottom-350.thumb.png)](../Chassis/Slimline/4U/docs/bottom-350.png)</br>
+
+## Bill of Materials
+
+- [ ] 4x 100 Resistor
+- [ ] 6x 100/2W Resistor
+- [ ] 2x 100/35W Resistor
+- [ ] 14x 100k Resistor
+- [ ] 2x 100k Resistor (2W)
+- [ ] 4x 100k Trimm Resistor
+- [ ] 2x 100k/2W Resistor
+- [ ] 2x 100n Capacitor
+- [ ] 4x 100n/400V Capacitor
+- [ ] 1x 100nF Capacitor
+- [ ] 2x 100u/100V Polarized Capacitor
+- [ ] 2x 100u/25 Polarized Capacitor
+- [ ] 2x 100u/25V Polarized Capacitor
+- [ ] 4x 10_270/2W Cathode Resistor
+- [ ] 5x 10k Resistor
+- [ ] 4x 110 Resistor
+- [ ] 4x 1M Resistor
+- [ ] 2x 1N4148 Diode
+- [ ] 13x 1k Resistor
+- [ ] 4x 1u/400V Coupling Capacitor
+- [ ] 4x 1u/50V Polarized Capacitor
+- [ ] 4x 2.2k/2W Resistor
+- [ ] 4x 2.7k Resistor
+- [ ] 2x 2.7k/2W Resistor
+- [ ] 2x 22 Resistor
+- [ ] 2x 220u/16V Polarized Capacitor
+- [ ] 4x 220u/450V Polarized Capacitor
+- [ ] 4x 22p Capacitor
+- [ ] 2x 270k/2W Resistor
+- [ ] 4x 27k Resistor
+- [ ] 2x 30 Resistor
+- [ ] 4x 4.7k Resistor
+- [ ] 10x 470 Resistor
+- [ ] 4x 470k/2W Resistor
+- [ ] 4x 470u/100V Polarized Capacitor
+- [ ] 2x 47k/2W Resistor
+- [ ] 2x 47u/450V Polarized Capacitor
+- [ ] 1x B3B-ZR Connector
+- [ ] 2x BC547 NPN Transistor
+- [ ] 1x BS170 N-Channel MOS FET
+- [ ] 2x BZX55C15 Z Diode
+- [ ] 2x BZX55C2V7 Z Diode
+- [ ] 2x BZX55C5V1 Z Diode (DO41Z10)
+- [ ] 1x BZX55C5V1 Z Diode (DO35-7)
+- [ ] 16x C3D03060A Diode
+- [ ] 4x ECC88 Valve
+- [ ] 4x EL84 Valve
+- [ ] 2x G6K-2P-Y Relay
+- [ ] 4x IRF820 N-Channel MOS FET
+- [ ] 6x MKDSN1,5/2-5,08 Terminal Block
+- [ ] 4x MKDSN1,5/3-5,08 Terminal Block
+- [ ] 2x MPSA42 Transistor
+- [ ] 2x PC817 Opto Coupler
+- [ ] 6x SK104-PAD Heatsink
+- [ ] 16x SK95-2M3 Heatsink
+- [ ] 4x ST-SMB-V SMB Connector
+- [ ] 4x T 315mA Fuse Holder
+- [ ] 2x T 3A Fuse Holder
+- [ ] 2x UF4003 Diode
