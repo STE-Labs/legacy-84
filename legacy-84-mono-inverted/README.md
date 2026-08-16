@@ -51,6 +51,11 @@
 [PDF](./docs/circuit-diagram-pure-switch.pdf)</br>
 
 ## Chassis Examples
+### Modushop Galaxy 2U 230mm
+
+### Modushop Galaxy 2U 280mm
+
+
 ### Modushop Slim Line 2U 230mm
 [![Slim Line 2U/230 Silver](../Chassis/Slimline/2U/docs/DSC_9300-600x600-2000x2000.thumb.jpg)](../Chassis/Slimline/2U/docs/DSC_9300-600x600-2000x2000.jpg)</br>
 [Slim Line 2U/230 Silver](https://modushop.biz/site/index.php?route=product/product&path=120_246_249&product_id=97)</br></br>
