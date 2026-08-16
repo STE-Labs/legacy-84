@@ -17,13 +17,13 @@ Drawings for Custom Amplifier Enclosures
 - [Rear Panel XLR](#rear-panel-xlr)
 
 ### Front Panel
-[![Modushop Slim Line 2U Front Panel](.preview/front.thumb.png)](.preview/front.png)
+[![Modushop Slim Line 2U Front Panel](docs/front.thumb.png)](docs/front.png)
 
 ### Rear Panel RCA
-[![Modushop Slim Line 2U Rear Panel RCA](.preview/rear-rca.thumb.png)](.preview/rear-rca.png)
+[![Modushop Slim Line 2U Rear Panel RCA](docs/rear-rca.thumb.png)](docs/rear-rca.png)
 
 ### Rear Panel XLR
-[![Modushop Slim Line 2U Rear Panel XLR](.preview/rear-xlr.thumb.png)](.preview/rear-xlr.png)
+[![Modushop Slim Line 2U Rear Panel XLR](docs/rear-xlr.thumb.png)](docs/rear-xlr.png)
 
 ## Slim Line 04/280
 
@@ -34,7 +34,7 @@ Drawings for Custom Amplifier Enclosures
 - [Bottom Panel](#bottom-panel-04280)
 
 ### Specifications
-[![Modushop Slim Line 04/280](.preview/DSC_9453-600x600-2000x2000.thumb.jpg)](.preview/DSC_9453-600x600-2000x2000.jpg)
+[![Modushop Slim Line 04/280](docs/DSC_9453-600x600-2000x2000.thumb.jpg)](docs/DSC_9453-600x600-2000x2000.jpg)
 |Dimension|Height|Width|Depth|
 |---|---|---|---|
 |Internal|120|415|280|
@@ -47,10 +47,10 @@ Drawings for Custom Amplifier Enclosures
 |Rear Panel|3mm black/silver anodized aluminum|
 
 ### Top Panel 04/280
-[![Modushop Slim Line 04/280 Top Panel](.preview/top-280.thumb.png)](.preview/top-280.png)
+[![Modushop Slim Line 04/280 Top Panel](docs/top-280.thumb.png)](docs/top-280.png)
 
 ### Bottom Panel 04/280
-[![Modushop Slim Line 04/280 Bottom Panel](.preview/bottom-280.thumb.png)](.preview/bottom-280.png)
+[![Modushop Slim Line 04/280 Bottom Panel](docs/bottom-280.thumb.png)](docs/bottom-280.png)
 
 ## Slim Line 04/350
 
@@ -61,7 +61,7 @@ Drawings for Custom Amplifier Enclosures
 - [Bottom Panel](#bottom-panel-04350)
 
 ### Specifications
-[![Modushop Slim Line 04/350](.preview/DSC_9425-600x600-2000x2000.thumb.jpg)](.preview/DSC_9425-600x600-2000x2000.jpg)
+[![Modushop Slim Line 04/350](docs/DSC_9425-600x600-2000x2000.thumb.jpg)](docs/DSC_9425-600x600-2000x2000.jpg)
 |Dimension|Height|Width|Depth|
 |---|---|---|---|
 |Internal|120|415|350|
@@ -74,7 +74,7 @@ Drawings for Custom Amplifier Enclosures
 |Rear Panel|3mm black/silver anodized aluminum|
 
 ### Top Panel 04/350
-[![Modushop Slim Line 04/350 Top Panel](.preview/top-350.thumb.png)](.preview/top-350.png)
+[![Modushop Slim Line 04/350 Top Panel](docs/top-350.thumb.png)](docs/top-350.png)
 
 ### Bottom Panel 04/350
-[![Modushop Slim Line 04/350 Bottom Panel](.preview/bottom-350.thumb.png)](.preview/bottom-350.png)
+[![Modushop Slim Line 04/350 Bottom Panel](docs/bottom-350.thumb.png)](docs/bottom-350.png)

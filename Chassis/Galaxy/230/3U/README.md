@@ -20,17 +20,17 @@ Available at [Modushop.biz](https://modushop.biz/)
 - [Galaxy GX285](#galaxy-gx285)
 
 ## Legacy 84 Mono
-[![Legacy 84 Mono PCB Kit](../../../PCB/.preview/legacy-84-mono.thumb.png)](../../../PCB/.preview/legacy-84-mono.png)
+[![Legacy 84 Mono PCB Kit](../../../../legacy-84-mono/docs/pcb-front.thumb.png)](../../../../legacy-84-mono/docs/pcb-front.png)
 
 ## Common Panels
 [Top](#modushop-galaxy-330-3u)  
 These panels are shared between all Galaxy 3U models.
 
 #### Front Panel
-[![Modushop Galaxy 2U Front Panel](.preview/front.thumb.png)](.preview/front.png)
+[![Modushop Galaxy 2U Front Panel](docs/front.thumb.png)](docs/front.png)
 
 #### Rear Panel
-[![Modushop Galaxy 2U Rear Panel](.preview/rear.thumb.png)](.preview/rear.png)
+[![Modushop Galaxy 2U Rear Panel](docs/rear.thumb.png)](docs/rear.png)
 
 ## Galaxy GX288
 [Top](#modushop-galaxy-330-3u)  
@@ -40,13 +40,13 @@ These panels are shared between all Galaxy 3U models.
 - [Bottom Panel](#bottom-panel-gx288)
 
 ### Specifications
-[![Galaxy GX288](.preview/DSC_8783-600x600-2000x2000.thumb.jpg)](.preview/DSC_8783-600x600-2000x2000.jpg)
+[![Galaxy GX288](docs/DSC_8783-600x600-2000x2000.thumb.jpg)](docs/DSC_8783-600x600-2000x2000.jpg)
 
 ### Top Panel GX288
-[![Modushop Galaxy GX288 Top Panel](.preview/top-gx288.thumb.png)](.preview/top-gx288.png)
+[![Modushop Galaxy GX288 Top Panel](docs/top-gx288.thumb.png)](docs/top-gx288.png)
 
 ### Bottom Panel GX288
-[![Modushop Galaxy GX288 Bottom Panel](.preview/bottom-gx288.thumb.png)](.preview/bottom-gx288.png)
+[![Modushop Galaxy GX288 Bottom Panel](docs/bottom-gx288.thumb.png)](docs/bottom-gx288.png)
 
 ## Galaxy GX285
 [Top](#modushop-galaxy-330-3u)  
@@ -56,10 +56,10 @@ These panels are shared between all Galaxy 3U models.
 - [Bottom Panel](#bottom-panel-gx285)
 
 ### Specifications
-[![Galaxy GX285](.preview/DSC_8639-600x600-2000x2000.thumb.jpg)](.preview/DSC_8639-600x600-2000x2000.jpg)
+[![Galaxy GX285](docs/DSC_8639-600x600-2000x2000.thumb.jpg)](docs/DSC_8639-600x600-2000x2000.jpg)
 
 ### Top Panel GX285
-[![Modushop Galaxy GX285 Top Panel](.preview/top-gx285.thumb.png)](.preview/top-gx285.png)
+[![Modushop Galaxy GX285 Top Panel](docs/top-gx285.thumb.png)](docs/top-gx285.png)
 
 ### Bottom Panel GX285
-[![Modushop Galaxy GX285 Bottom Panel](.preview/bottom-gx285.thumb.png)](.preview/bottom-gx285.png)
+[![Modushop Galaxy GX285 Bottom Panel](docs/bottom-gx285.thumb.png)](docs/bottom-gx285.png)

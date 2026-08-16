@@ -20,7 +20,7 @@ Available at [Modushop.biz](https://modushop.biz/)
 - [Additional Kits and Components](#additional-kits-and-components)
 
 ## Legacy 84 Mono Inverted
-[![Legacy 84 Mono Inverted PCB Kit](../../PCB/.preview/legacy-84-mono-inverted.thumb.png)](../../PCB/.preview/legacy-84-mono-inverted.png)
+[![Legacy 84 Mono Inverted PCB Kit](../../../legacy-84-mono-inverted/docs/pcb-front.thumb.png)](../../../legacy-84-mono-inverted/docs/pcb-front.png)
 
 ## Common Panels
 [Top](#modushop-slim-line-2u)  
@@ -31,13 +31,13 @@ Available at [Modushop.biz](https://modushop.biz/)
 - [Rear Panel XLR](#rear-panel-xlr)
 
 ### Front Panel
-[![Modushop Slim Line 2U Front Panel](.preview/front.thumb.png)](.preview/front.png)
+[![Modushop Slim Line 2U Front Panel](docs/front.thumb.png)](docs/front.png)
 
 ### Rear Panel RCA
-[![Modushop Slim Line 2U Rear Panel RCA](.preview/rear-rca.thumb.png)](.preview/rear-rca.png)
+[![Modushop Slim Line 2U Rear Panel RCA](docs/rear-rca.thumb.png)](docs/rear-rca.png)
 
 ### Rear Panel XLR
-[![Modushop Slim Line 2U Rear Panel XLR](.preview/rear-xlr.thumb.png)](.preview/rear-xlr.png)
+[![Modushop Slim Line 2U Rear Panel XLR](docs/rear-xlr.thumb.png)](docs/rear-xlr.png)
 
 ## Slim Line 02/230
 
@@ -48,7 +48,7 @@ Available at [Modushop.biz](https://modushop.biz/)
 - [Bottom Panel](#bottom-panel-02230)
 
 ### Specifications
-[![Modushop Slim Line 02/230](.preview/DSC_9300-600x600-2000x2000.thumb.jpg)](.preview/DSC_9300-600x600-2000x2000.jpg)
+[![Modushop Slim Line 02/230](docs/DSC_9300-600x600-2000x2000.thumb.jpg)](docs/DSC_9300-600x600-2000x2000.jpg)
 |Dimension|Height|Width|Depth|
 |---|---|---|---|
 |Internal|80|415|230|
@@ -61,10 +61,10 @@ Available at [Modushop.biz](https://modushop.biz/)
 |Rear Panel|3mm black/silver anodized aluminum|
 
 ### Top Panel 02/230
-[![Modushop Slim Line 02/230 Top Panel](.preview/top-230.thumb.png)](.preview/top-230.png)
+[![Modushop Slim Line 02/230 Top Panel](docs/top-230.thumb.png)](docs/top-230.png)
 
 ### Bottom Panel 02/230
-[![Modushop Slim Line 02/230 Bottom Panel](.preview/bottom-230.thumb.png)](.preview/bottom-230.png)
+[![Modushop Slim Line 02/230 Bottom Panel](docs/bottom-230.thumb.png)](docs/bottom-230.png)
 
 ## Slim Line 02/280
 
@@ -75,7 +75,7 @@ Available at [Modushop.biz](https://modushop.biz/)
 - [Bottom Panel](#bottom-panel-02280)
 
 ### Specifications
-[![Modushop Slim Line 02/280](.preview/DSC_9277-600x600-2000x2000.thumb.jpg)](.preview/DSC_9277-600x600-2000x2000.jpg)
+[![Modushop Slim Line 02/280](docs/DSC_9277-600x600-2000x2000.thumb.jpg)](docs/DSC_9277-600x600-2000x2000.jpg)
 |Dimension|Height|Width|Depth|
 |---|---|---|---|
 |Internal|80|415|280|
@@ -88,10 +88,10 @@ Available at [Modushop.biz](https://modushop.biz/)
 |Rear Panel|3mm black/silver anodized aluminum|
 
 ### Top Panel 02/280
-[![Modushop Slim Line 02/280 Top Panel](.preview/top-280.thumb.png)](.preview/top-280.png)
+[![Modushop Slim Line 02/280 Top Panel](docs/top-280.thumb.png)](docs/top-280.png)
 
 ### Bottom Panel 02/280
-[![Modushop Slim Line 02/280 Bottom Panel](.preview/bottom-280.thumb.png)](.preview/bottom-280.png)
+[![Modushop Slim Line 02/280 Bottom Panel](docs/bottom-280.thumb.png)](docs/bottom-280.png)
 
 ## Additional Kits and Components
 [Top](#modushop-slim-line-2u)  

@@ -20,17 +20,17 @@ Available at [Modushop.biz](https://modushop.biz/)
 - [Galaxy GX288](#galaxy-gx288)
 
 ## Legacy 84 Mono Inverted
-[![Legacy 84 Mono Inverted PCB Kit](../../../PCB/.preview/legacy-84-mono-inverted.thumb.png)](../../../PCB/.preview/legacy-84-mono-inverted.png)
+[![Legacy 84 Mono Inverted PCB Kit](../../../../legacy-84-mono-inverted/docs/pcb-front.thumb.png)](../../../../legacy-84-mono-inverted/docs/pcb-front.png)
 
 ## Common Panels
 [Top](#modushop-galaxy-230-2u)  
 These panels are shared between all Galaxy 2U models.
 
 #### Front Panel
-[![Modushop Galaxy 2U Front Panel](.preview/front.thumb.png)](.preview/front.png)
+[![Modushop Galaxy 2U Front Panel](docs/front.thumb.png)](docs/front.png)
 
 #### Rear Panel
-[![Modushop Galaxy 2U Rear Panel](.preview/rear.thumb.png)](.preview/rear.png)
+[![Modushop Galaxy 2U Rear Panel](docs/rear.thumb.png)](docs/rear.png)
 
 ## Galaxy GX283
 [Top](#modushop-galaxy-230-2u)
@@ -40,13 +40,13 @@ These panels are shared between all Galaxy 2U models.
 - [Bottom Panel](#bottom-panel-gx283)
 
 ### Specifications
-[![Galaxy GX283](.preview/DSC_8333-600x600-2000x2000.thumb.jpg)](.preview/DSC_8333-600x600-2000x2000.jpg)
+[![Galaxy GX283](docs/DSC_8333-600x600-2000x2000.thumb.jpg)](docs/DSC_8333-600x600-2000x2000.jpg)
 
 ### Top Panel GX283
-[![Modushop Galaxy GX283 Top Panel](.preview/top-gx283.thumb.png)](.preview/top-gx283.png)
+[![Modushop Galaxy GX283 Top Panel](docs/top-gx283.thumb.png)](docs/top-gx283.png)
 
 ### Bottom Panel GX283
-[![Modushop Galaxy GX283 Bottom Panel](.preview/bottom-gx283.thumb.png)](.preview/bottom-gx283.png)
+[![Modushop Galaxy GX283 Bottom Panel](docs/bottom-gx283.thumb.png)](docs/bottom-gx283.png)
 
 ## Galaxy GX288
 [Top](#modushop-galaxy-230-2u)
@@ -56,10 +56,10 @@ These panels are shared between all Galaxy 2U models.
 - [Bottom Panel](#bottom-panel-gx288)
 
 ### Specifications
-[![Galaxy GX288](.preview/DSC_8392-600x600-2000x2000.thumb.jpg)](.preview/DSC_8392-600x600-2000x2000.jpg)
+[![Galaxy GX288](docs/DSC_8392-600x600-2000x2000.thumb.jpg)](docs/DSC_8392-600x600-2000x2000.jpg)
 
 ### Top Panel GX288
-[![Modushop Galaxy GX288 Top Panel](.preview/top-gx288.thumb.png)](.preview/top-gx288.png)
+[![Modushop Galaxy GX288 Top Panel](docs/top-gx288.thumb.png)](docs/top-gx288.png)
 
 ### Bottom Panel GX288
-[![Modushop Galaxy GX288 Bottom Panel](.preview/bottom-gx288.thumb.png)](.preview/bottom-gx288.png)
+[![Modushop Galaxy GX288 Bottom Panel](docs/bottom-gx288.thumb.png)](docs/bottom-gx288.png)

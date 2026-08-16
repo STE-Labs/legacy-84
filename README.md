@@ -21,7 +21,7 @@ Special care is taken into the design and routing to ensure that each trace is i
 ## Simplified Circuit Overview
 The Legacy 84 is a fully balanced amplifier design that uses two vacuum tubes for the input stage and two vacuum tubes for the output stage. The input stage is a SRPP/Long Tail Pair configuration, and the output stage is a push-pull configuration. The amplifier is optimized to operate without Global Negative Feedback. Local feedback (cathode degeneration) is used in the input stage to control the gain and reduce distortion. The output stage can be configured with Auto-BIAS or Fixed BIAS.
 
-[![Legacy 84 Simplified Circuit](./PCB/.preview/legacy-84-simplified-circuit.thumb.png)](./PCB/.preview/legacy-84-simplified-circuit.png)
+[![Legacy 84 Simplified Circuit](./PCB/docs/legacy-84-simplified-circuit.thumb.png)](./PCB/docs/legacy-84-simplified-circuit.png)
 
 |Stage|Compatible Vacuum Tubes|
 |---|---|
@@ -73,7 +73,9 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 [Modushop Galaxy 4U GX385](./Chassis/Galaxy/330/4U/README.md)  
 
 ## Legacy 84 Mono
-[![Legacy 84 Mono](./PCB/.preview/legacy-84-mono.thumb.png)](./PCB/.preview/legacy-84-mono.png)
+[View Details](./legacy-84-mono/README.md)
+
+[![Legacy 84 Mono](./legacy-84-mono/docs/pcb-front.thumb.png)](./legacy-84-mono/docs/pcb-front.png)
 
 |Dimension|Size|
 |---|---|
@@ -87,7 +89,9 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 |[Modushop Galaxy 4U GX285](../Chassis/Galaxy/230/4U/README.md)|
 
 ## Legacy 84 Mono-Inverted
-[![Legacy 84 Mono-Inverted](./PCB/.preview/legacy-84-mono-inverted.thumb.png)](./PCB/.preview/legacy-84-mono-inverted.png)
+[View Details](./legacy-84-mono-inverted/README.md)
+
+[![Legacy 84 Mono-Inverted](./legacy-84-mono-inverted/docs/pcb-front.thumb.png)](./legacy-84-mono-inverted/docs/pcb-front.png)
 
 |Dimension|Size|
 |---|---|
@@ -101,7 +105,9 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 |[Modushop Slim Line 2U](../Chassis/Slimline/2U/README.md)|
 
 ## Legacy 84 Stereo
-[![Legacy 84 Stereo](./PCB/.preview/legacy-84-stereo.thumb.png)](./PCB/.preview/legacy-84-stereo.png)
+[View Details](./legacy-84-stereo/README.md)
+
+[![Legacy 84 Stereo](./legacy-84-stereo/docs/pcb-front.thumb.png)](./legacy-84-stereo/docs/pcb-front.png)
 
 |Dimension|Size|
 |---|---|
@@ -117,7 +123,9 @@ We have pre-designed enclosures for the Legacy 84 kits to make building easier a
 |[Modushop Slim Line 4U](../Chassis/Slimline/4U/README.md)|
 
 ## Legacy 84 Stereo-Inverted
-[![Legacy 84 Stereo-Inverted](./PCB/.preview/legacy-84-stereo-inverted.thumb.png)](./PCB/.preview/legacy-84-stereo-inverted.png)
+[View Details](./legacy-84-stereo-inverted/README.md)
+
+[![Legacy 84 Stereo-Inverted](./legacy-84-stereo-inverted/docs/pcb-front.thumb.png)](./legacy-84-stereo-inverted/docs/pcb-front.png)
 
 |Dimension|Size|
 |---|---|
