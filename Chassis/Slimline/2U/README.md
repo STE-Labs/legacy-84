@@ -31,7 +31,7 @@ Available at [Modushop.biz](https://modushop.biz/)
 - [Rear Panel XLR](#rear-panel-xlr)
 
 ### Front Panel
-[![Modushop Slim Line 2U Front Panel](docs/front.thumb.png)](docs/front.png)
+[![Modushop Slim Line 2U Front Panel](docs/front.thumb.png)](docs/front.png)  
 
 ### Rear Panel RCA
 [![Modushop Slim Line 2U Rear Panel RCA](docs/rear-rca.thumb.png)](docs/rear-rca.png)
