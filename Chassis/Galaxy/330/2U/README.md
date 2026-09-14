@@ -40,10 +40,10 @@ These panels are shared between all Galaxy 2U models.
 [![Modushop Galaxy 2U Front Panel 3.1 Channels](docs/front-3-1.thumb.png)](docs/front-3-1.png)
 
 #### Rear Panel RCA
-[![Modushop Galaxy 2U Rear Panel 3.1 Channels RCA](docs/rear-3-1-rca.thumb.png)](docs/rear-3-1-rca.png)
+![Modushop Galaxy 2U Rear Panel 3.1 Channels RCA](docs/rear-rca-3-1.png)
 
 #### Rear Panel XLR
-[![Modushop Galaxy 2U Rear Panel 3.1 Channels XLR](docs/rear-3-1-xlr.thumb.png)](docs/rear-3-1-xlr.png)
+![Modushop Galaxy 2U Rear Panel 3.1 Channels XLR](docs/rear-xlr-3-1.png)
 
 ### 4 Channels
 
@@ -51,10 +51,10 @@ These panels are shared between all Galaxy 2U models.
 [![Modushop Galaxy 2U Front Panel 4 Channels](docs/front-4-0.thumb.png)](docs/front-4-0.png)
 
 #### Rear Panel RCA
-[![Modushop Galaxy 2U Rear Panel 4 Channels RCA](docs/rear-4-0-rca.thumb.png)](docs/rear-4-0-rca.png)
+![Modushop Galaxy 2U Rear Panel 4 Channels RCA](docs/rear-rca-4-0.png)
 
 #### Rear Panel XLR
-[![Modushop Galaxy 2U Rear Panel 4 Channels XLR](docs/rear-4-0-xlr.thumb.png)](docs/rear-4-0-xlr.png)
+![Modushop Galaxy 2U Rear Panel 4 Channels XLR](docs/rear-xlr-4-0.png)
 
 ### 4.1 Channels
 
@@ -62,10 +62,10 @@ These panels are shared between all Galaxy 2U models.
 [![Modushop Galaxy 2U Front Panel 4.1 Channels](docs/front-4-1.thumb.png)](docs/front-4-1.png)
 
 #### Rear Panel RCA
-[![Modushop Galaxy 2U Rear Panel 4.1 Channels RCA](docs/rear-4-1-rca.thumb.png)](docs/rear-4-1-rca.png)
+![Modushop Galaxy 2U Rear Panel 4.1 Channels RCA](docs/rear-rca-4-1.png)
 
 #### Rear Panel XLR
-[![Modushop Galaxy 2U Rear Panel 4.1 Channels XLR](docs/rear-4-1-xlr.thumb.png)](docs/rear-4-1-xlr.png)
+![Modushop Galaxy 2U Rear Panel 4.1 Channels XLR](docs/rear-xlr-4-1.png)
 
 ### 5 Channels
 
@@ -73,10 +73,10 @@ These panels are shared between all Galaxy 2U models.
 [![Modushop Galaxy 2U Front Panel 5 Channels](docs/front-5-0.thumb.png)](docs/front-5-0.png)
 
 #### Rear Panel RCA
-[![Modushop Galaxy 2U Rear Panel 5 Channels RCA](docs/rear-5-0-rca.thumb.png)](docs/rear-5-0-rca.png)
+![Modushop Galaxy 2U Rear Panel 5 Channels RCA](docs/rear-rca-5-0.png)
 
 #### Rear Panel XLR
-[![Modushop Galaxy 2U Rear Panel 5 Channels XLR](docs/rear-5-0-xlr.thumb.png)](docs/rear-5-0-xlr.png)
+![Modushop Galaxy 2U Rear Panel 5 Channels XLR](docs/rear-xlr-5-0.png)
 
 ## Galaxy GX383
 [Top](#modushop-galaxy-330-2u)  
@@ -90,9 +90,6 @@ These panels are shared between all Galaxy 2U models.
 
 ### Top Panel GX383
 [![Modushop Galaxy GX383 Top Panel](docs/top-gx383.thumb.png)](docs/top-gx383.png)
-
-### Top Panel GX383 Amplimo
-[![Modushop Galaxy GX383 Top Panel](docs/top-gx383-amplimo.thumb.png)](docs/top-gx383-amplimo.png)
 
 ### Bottom Panel GX383
 [![Modushop Galaxy GX383 Bottom Panel](docs/bottom-gx383.thumb.png)](docs/bottom-gx383.png)
