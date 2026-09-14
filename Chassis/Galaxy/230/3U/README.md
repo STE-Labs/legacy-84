@@ -29,8 +29,11 @@ These panels are shared between all Galaxy 3U models.
 #### Front Panel
 [![Modushop Galaxy 2U Front Panel](docs/front.thumb.png)](docs/front.png)
 
-#### Rear Panel
-[![Modushop Galaxy 2U Rear Panel](docs/rear.thumb.png)](docs/rear.png)
+#### Rear Panel RCA
+[![Modushop Galaxy 2U Rear Panel RCA](docs/rear-rca.thumb.png)](docs/rear-rca.png)
+
+#### Rear Panel XLR
+[![Modushop Galaxy 2U Rear Panel XLR](docs/rear-xlr.thumb.png)](docs/rear-xlr.png)
 
 ## Galaxy GX288
 [Top](#modushop-galaxy-330-3u)  
