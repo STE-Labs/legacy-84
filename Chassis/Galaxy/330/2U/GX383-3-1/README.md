@@ -41,6 +41,14 @@ You can download a free copy of Front Panel Designer [here](https://www.frontpan
 |Drilling front panel 10mm|https://modushop.biz/site/index.php?route=product/product&product_id=489|Customized on front/rear part of the panel|1x|
 |Digital Printing|https://modushop.biz/site/index.php?route=product/product&product_id=579||2x|
 
+## Optional Parts
+Order these optional parts to complete your Amplifier.
+|Description|URL|Amount|
+|---|---|---|
+|Anti-Vibration Feet|https://modushop.biz/site/index.php?route=product/category&path=313|1x|
+|Aluminium knob 24.5 mm|https://modushop.biz/site/index.php?route=product/product&path=312&product_id=755|1x|
+|Aluminium knob 39.5 mm|https://modushop.biz/site/index.php?route=product/product&path=312&product_id=757|1x|
+
 ## Transformers
 The drawings that are provided here make use of customized transformers from [Automatic Electric Europe](https://www.aeetransformers.com/) (AEE). Both the Legacy 84 and the Impact 84 use the exact same transformers.
 
