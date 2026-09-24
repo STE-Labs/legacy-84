@@ -16,10 +16,10 @@ You can download a free copy of Front Panel Designer [here](https://www.frontpan
 ### Templates for Customized Panels
 |Description|URL|
 |---|---|
-|Front Panel|[Front.fpd](./Front.fpd)|
-|Rear Panel|[Rear-RCA.fpd](./Rear-RCA.fpd)|
-|Top Panel|[Top.fpd](./Top.fpd)|
-|Bottom Panel*|[Bottom.fpd](./Bottom.fpd)|
+|Front Panel|[front.fpd](./front.fpd)|
+|Rear Panel|[rear-rca.fpd](./rear-rca.fpd)|
+|Top Panel|[top.fpd](./top.fpd)|
+|Bottom Panel*|[bottom.fpd](./bottom.fpd)|
 
 \* Alternatively you can make use of Modushop's Fully vented aluminium cover instead of using a customized panel for the bottom. This will safe you the costs for customization, however you will have to drill your own holes for the feet and for the grounding post. You can find the Fully vented aluminium cover [here](https://modushop.biz/site/index.php?route=product/product&product_id=589).
 
