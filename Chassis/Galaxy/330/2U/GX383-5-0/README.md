@@ -1,4 +1,4 @@
-# Modushop GX383 with three inputs and one output
+# Modushop GX383 with five inputscd 
 ![](../Renders/gx383-silver.png)
 
 Here you can find an overview with the source files needed for a customized GX383 chassis from Modushop.
@@ -16,8 +16,8 @@ You can download a free copy of Front Panel Designer [here](https://www.frontpan
 ### Templates for Customized Panels
 |Description|URL|Example|
 |---|---|---|
-|Front Panel|[front.fpd](./front.fpd)|[front-3-1.png](../Renders/front-3-1.png)|
-|Rear Panel|[rear-rca.fpd](./rear-rca.fpd)|[rear-rca-3-1.png](../Renders/rear-3-1.png)|
+|Front Panel|[front.fpd](./front.fpd)|[front-5-0.png](../Renders/front-5-0.png)|
+|Rear Panel|[rear-rca.fpd](./rear-rca.fpd)|[rear-rca-5-0.png](../Renders/rear-5-0.png)|
 |Top Panel|[top.fpd](./top.fpd)|[gx383-front.png](../Renders/gx383-front.png)|
 |Bottom Panel*|[bottom.fpd](./bottom.fpd)|[gx383-rear.png](../Renders/gx383-rear.png)|
 
