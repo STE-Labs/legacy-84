@@ -14,6 +14,8 @@ Keep these limitations in mind in modify the drawings:
 You can download a free copy of Front Panel Designer [here](https://www.frontpanelexpress.com/front-panel-designer).
 
 ### Templates for Customized Panels
+Download complete panel templates [here](./Panels.zip).
+
 |Description|URL|Example|
 |---|---|---|
 |Front Panel|[front.fpd](./front.fpd)|[front-4-1.png](../Renders/front-4-1.png)|

@@ -1,0 +1,145 @@
+name: Package Chassis
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'Chassis/**/GX*/**/*.fpd'
+  workflow_dispatch:
+    inputs:
+      force_all:
+        description: 'Rebuild all chassis packages (ignore change detection)'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write
+
+env:
+  RELEASE_TAG: latest
+
+jobs:
+  package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect changed chassis folders
+        id: detect
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ inputs.force_all }}" == "true" ]]; then
+            echo "Force rebuild all packages"
+            FOLDERS=$(find Chassis -type d -name 'GX*' | sort)
+          else
+            CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'Chassis/**/GX*/**/*.fpd' 2>/dev/null || true)
+
+            if [ -z "$CHANGED_FILES" ]; then
+              echo "No .fpd files changed in GX* folders"
+              echo "folders=" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+
+            # Extract unique GX* parent directories
+            FOLDERS=$(echo "$CHANGED_FILES" | while read -r file; do
+              dir=$(dirname "$file")
+              while [ "$dir" != "." ]; do
+                basename=$(basename "$dir")
+                if [[ "$basename" == GX* ]]; then
+                  echo "$dir"
+                  break
+                fi
+                dir=$(dirname "$dir")
+              done
+            done | sort -u)
+          fi
+
+          if [ -z "$FOLDERS" ]; then
+            echo "No chassis folders to package"
+            echo "folders=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "Folders to package:"
+          echo "$FOLDERS"
+
+          JSON=$(echo "$FOLDERS" | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "folders=$JSON" >> "$GITHUB_OUTPUT"
+
+      - name: Create zip packages
+        if: steps.detect.outputs.folders != ''
+        id: zip
+        run: |
+          REPO="${{ github.repository }}"
+          mkdir -p dist
+          RELEASE_BODY=""
+
+          for FOLDER in $(echo '${{ steps.detect.outputs.folders }}' | jq -r '.[]'); do
+            PACKAGE_NAME=$(echo "$FOLDER" | sed 's|Chassis/||' | tr '/' '-')
+            ZIP_FILE="${PACKAGE_NAME}.zip"
+            ABS_ZIP="$(pwd)/dist/${ZIP_FILE}"
+
+            echo "Packaging $FOLDER -> dist/$ZIP_FILE"
+            (cd "$FOLDER" && zip -j "$ABS_ZIP" *.fpd)
+
+            # Build the download URL for this asset on the 'latest' release
+            DOWNLOAD_URL="https://github.com/${REPO}/releases/download/${{ env.RELEASE_TAG }}/${ZIP_FILE}"
+
+            # Update the README.md download link in this chassis folder
+            README="$FOLDER/README.md"
+            if [ -f "$README" ]; then
+              sed -i "s|Download complete panel templates \[here\](.*)|Download complete panel templates [here](${DOWNLOAD_URL}).|" "$README"
+              echo "Updated $README -> $DOWNLOAD_URL"
+            fi
+
+            FPD_COUNT=$(ls "$FOLDER"/*.fpd 2>/dev/null | wc -l)
+            RELEASE_BODY="${RELEASE_BODY}- **${PACKAGE_NAME}**: ${FPD_COUNT} panel drawings\n"
+          done
+
+          echo "body<<EOF" >> "$GITHUB_OUTPUT"
+          echo -e "$RELEASE_BODY" >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
+
+          ls -la dist/
+
+      - name: Commit updated READMEs
+        if: steps.detect.outputs.folders != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add 'Chassis/**/GX*/README.md'
+          if git diff --cached --quiet; then
+            echo "No README changes to commit"
+          else
+            git commit -m "ci: update chassis download links [skip ci]"
+            git push
+          fi
+
+      - name: Delete existing release and tag
+        if: steps.detect.outputs.folders != ''
+        run: |
+          gh release delete "${{ env.RELEASE_TAG }}" --yes --cleanup-tag 2>/dev/null || true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create release
+        if: steps.detect.outputs.folders != ''
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.RELEASE_TAG }}
+          name: "Chassis Panel Packages"
+          body: |
+            Latest chassis panel drawing packages.
+
+            ### Packages
+            ${{ steps.zip.outputs.body }}
+
+            Each zip contains `.fpd` (Front Panel Designer) files for ordering customized panels from [Modushop](https://modushop.biz/).
+          files: dist/*.zip
+          draft: false
+          prerelease: false
+          make_latest: true
