@@ -14,7 +14,7 @@ Keep these limitations in mind in modify the drawings:
 You can download a free copy of Front Panel Designer [here](https://www.frontpanelexpress.com/front-panel-designer).
 
 ### Templates for Customized Panels
-Download complete panel templates [here](./Panels.zip).
+Download complete panel templates [here](https://github.com/STE-Labs/legacy-84/releases/download/latest/Galaxy-330-2U-GX383-4-0.zip)..
 
 |Description|URL|Example|
 |---|---|---|
